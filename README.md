@@ -1,6 +1,4 @@
 # 🚀 Heitor R. Barros
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorrbarros&theme=dracula&show_icons=true)
-
 Hey there! 👋 I'm Heitor, a passionate software engineer with a diverse background in various technologies and domains. With over a decade of experience, I've had the opportunity to work with a wide range of stacks, programming languages, and tools.
 
 In the last 4 years, my focus has been on improving observability, SRE, DevOps, and cloud-native technologies. I'm passionate about building robust, scalable, and maintainable systems that deliver value to users.
